@@ -6,7 +6,7 @@
 This repository contains the code for Project 1 of the COMS 5790 course at Iowa State University. The project focuses on analyzing terminologies across two research corpora (Animal Science and LitCovid). 
 
 The pipeline includes:
-- **Task 1:** Text pre-processing and Word Cloud visualizations (Term Frequency & TF-IDF)[cite: 1].
+- **Task 1:** Text pre-processing and Word Cloud visualizations (Term Frequency & TF-IDF).
 - **Task 2:** Word2Vec embedding training and 2D visualization using t-SNE.
 - **Task 3:** Phrase mining implementation to extract and annotate bi-grams and tri-grams.
 
